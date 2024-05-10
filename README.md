@@ -7,3 +7,15 @@ This project is a simple template to start working on C language projects using 
 ## Folder Structure
 
 The project has the following folder structure:
+- root
+  - build
+    - build.exe
+  - src
+    - file1.c
+    - file2.c
+    - ...
+  - include
+    - file1.h
+    - file2.h
+    - ...
+  - main.c
