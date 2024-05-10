@@ -41,8 +41,7 @@ The `launch.json` file is configured to run the produced executable after compil
 2. Make sure you have **gcc** and **Visual Studio Code** installed.
 3. **Open** the project in Visual Studio Code.
 4. **Modify** the `.c` source files according to your needs.
-5. **Compile** the project using the build task (`Ctrl + Shift + B`).
-6. **Run** the program by pressing `F5` or using the debug task.
+5. **Compile & Run** the program by pressing `F5`.
 
 ## Examples
 
