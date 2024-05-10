@@ -4,6 +4,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void stampa_hello_world();
+void print_hello_world();
 
 #endif // __HELLOWORLD_H__

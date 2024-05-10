@@ -1,6 +1,6 @@
 #include "HelloWorld.h"
 
-void stampa_hello_world()
+void print_hello_world()
 {
     printf("Hello, World!\n");
 }
